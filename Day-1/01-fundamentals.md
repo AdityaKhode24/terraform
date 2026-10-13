@@ -17,7 +17,6 @@ IaC addresses these challenges by providing a systematic, automated, and code-dr
 These tools enable organizations to define, deploy, and manage their infrastructure efficiently and consistently, making it easier to adapt to the dynamic needs of modern applications and services.
 
 # Why Terraform ?
- 
 
 There are multiple reasons why Terraform is used over the other IaC tools but below are the main reasons.
 
